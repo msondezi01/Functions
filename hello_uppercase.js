@@ -1,3 +1,4 @@
-var name = function (USERNAME) {
-	return Greeting 
+function Angel(Username) {
+	return  "Hello" + Username + "!";
 }
+Angel("Shane");
