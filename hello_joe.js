@@ -3,7 +3,7 @@ function Angel(Username) {
 }
 Angel("Bob");
 
-if (Angel === "Bob") {
+if (Angel() === "Bob") {
 
 	return "Hello" + Username + "!"
 }
